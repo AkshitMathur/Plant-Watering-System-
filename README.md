@@ -1,2 +1,3 @@
-# Plant-Watering-System-
-A simple arduino based plant waterong system that involves a soil moisture sensor to measure the moisture levels of the soil and give feedback to arduino which then commands the pump to turn on or not.
+<h1>Plant Watering System</h1>
+<hr>
+<p>This is a simple project which involves watering plants without any huamn intervention.</p>
