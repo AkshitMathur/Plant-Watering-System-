@@ -49,22 +49,6 @@ This project is an **Arduino-based automatic plant watering system** that detect
 
 ---
 
-
-## 🛠️ How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/automatic-plant-watering.git
-   ```
-2. Open the `.ino` file in Arduino IDE.
-3. Select your Arduino board & COM port.
-4. Upload the code.
-5. Connect the circuit as per the diagram.
-6. Power up and watch your plant get watered automatically! 🌱💧
-
----
-
 ## 📈 Future Improvements
 
 * Add an **LCD display** to show soil moisture levels.
