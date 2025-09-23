@@ -1,7 +1,6 @@
 <h1>Plant Watering System</h1>
 <hr>
 <p>This is a simple project which involves watering plants without any huamn intervention.</p>
-Here’s a clean **README.md** you can use directly for your **Automatic Plant Watering System using Arduino** project on GitHub:
 
 ---
 
