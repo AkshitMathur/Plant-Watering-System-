@@ -76,5 +76,5 @@ This project is an **Arduino-based automatic plant watering system** that detect
 ## 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repo, open issues, and submit pull requests.
-👉 Would you like me to also design a **circuit diagram image** (block diagram style) so you can include it in the README for GitHub?
+
 
